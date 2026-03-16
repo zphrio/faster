@@ -13,6 +13,8 @@ Faster adds a speed selector overlay to every HTML5 video element on any webpage
 
 ## Screenshots
 
+Screenshots taken from [W3C Video Events and API](https://www.w3.org/2010/05/video/mediaevents.html).
+
 ![Faster on W3C Video Events and API](screenshots/w3org.png)
 
 ![Faster set to 3x playback speed](screenshots/w3org-3x.png)
